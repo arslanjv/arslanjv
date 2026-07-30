@@ -18,7 +18,7 @@
 
 ---
 
-## 🛡️ PhantomBox: Resource-Efficient Malware Analysis Sandbox
+## PhantomBox: Resource-Efficient Malware Analysis Sandbox
 
 <div align="center">
   <p style="font-size: 1.1em; color: #8B949E;">A cutting-edge, evasive-resistant environment engineered to precisely capture modern malware behavior.</p>
@@ -33,52 +33,23 @@
 
 ---
 
-## 🚀 Featured Builds
+## Featured Builds
 
-<div align="center">
-  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/arslanjv/arslanjv" target="_blank">
-          <img src="./assets/project_0.svg" width="95%" alt="PhantomBox"/>
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/arslanjv/secure-voting-system" target="_blank">
-          <img src="./assets/project_1.svg" width="95%" alt="Secure Voting System"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/arslanjv/SysInfo-Forensics-Tool" target="_blank">
-          <img src="./assets/project_2.svg" width="95%" alt="SysInfo Forensics Tool"/>
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/arslanjv/ZapNik_Scanner" target="_blank">
-          <img src="./assets/project_3.svg" width="95%" alt="ZapNik Scanner"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/arslanjv/linkedin-job-scraper" target="_blank">
-          <img src="./assets/project_4.svg" width="95%" alt="LinkedIn Job Scraper"/>
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/arslanjv/logic-bomb-network-monitor" target="_blank">
-          <img src="./assets/project_5.svg" width="95%" alt="Logic Bomb Monitor"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<a href="https://github.com/arslanjv/arslanjv"><img src="./assets/project_0.svg" width="100%" alt="PhantomBox"/></a>
+
+<a href="https://github.com/arslanjv/secure-voting-system"><img src="./assets/project_1.svg" width="100%" alt="Secure Voting System"/></a>
+
+<a href="https://github.com/arslanjv/SysInfo-Forensics-Tool"><img src="./assets/project_2.svg" width="100%" alt="SysInfo Forensics Tool"/></a>
+
+<a href="https://github.com/arslanjv/ZapNik_Scanner"><img src="./assets/project_3.svg" width="100%" alt="ZapNik Scanner"/></a>
+
+<a href="https://github.com/arslanjv/linkedin-job-scraper"><img src="./assets/project_4.svg" width="100%" alt="LinkedIn Job Scraper"/></a>
+
+<a href="https://github.com/arslanjv/logic-bomb-network-monitor"><img src="./assets/project_5.svg" width="100%" alt="Logic Bomb Monitor"/></a>
 
 ---
 
-## 🛠️ Core Toolchain & Expertise
+## Core Toolchain & Expertise
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=kali,linux,windows,git,github,py,cpp,c,cs,java,js,html,css,flask,react,nodejs,postgres,redis&theme=dark&perline=9" alt="tech stack"/>
@@ -88,7 +59,7 @@
 
 ---
 
-## 📊 GitHub Ecosystem
+## GitHub Ecosystem
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=arslanjv&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=8B949E&icon_color=58A6FF&border_radius=10" height="165" alt="stats"/>
