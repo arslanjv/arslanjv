@@ -36,24 +36,44 @@
 ## 🚀 Featured Builds
 
 <div align="center">
-  <a href="https://github.com/arslanjv/secure-voting-system" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arslanjv&repo=secure-voting-system&theme=dark&hide_border=true&title_color=39D353&icon_color=58A6FF&text_color=8B949E&bg_color=0D1117" alt="Secure Voting System"/>
-  </a>
-  <a href="https://github.com/arslanjv/SysInfo-Forensics-Tool" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arslanjv&repo=SysInfo-Forensics-Tool&theme=dark&hide_border=true&title_color=39D353&icon_color=58A6FF&text_color=8B949E&bg_color=0D1117" alt="SysInfo Forensics Tool"/>
-  </a>
-  <a href="https://github.com/arslanjv/ZapNik_Scanner" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arslanjv&repo=ZapNik_Scanner&theme=dark&hide_border=true&title_color=39D353&icon_color=58A6FF&text_color=8B949E&bg_color=0D1117" alt="ZapNik Scanner"/>
-  </a>
-  <a href="https://github.com/arslanjv/linkedin-job-scraper" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arslanjv&repo=linkedin-job-scraper&theme=dark&hide_border=true&title_color=39D353&icon_color=58A6FF&text_color=8B949E&bg_color=0D1117" alt="LinkedIn Job Scraper"/>
-  </a>
-  <a href="https://github.com/arslanjv/logic-bomb-network-monitor" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arslanjv&repo=logic-bomb-network-monitor&theme=dark&hide_border=true&title_color=39D353&icon_color=58A6FF&text_color=8B949E&bg_color=0D1117" alt="Logic Bomb Network Monitor"/>
-  </a>
-  <a href="https://github.com/arslanjv/notepad-reverse-shell" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arslanjv&repo=notepad-reverse-shell&theme=dark&hide_border=true&title_color=39D353&icon_color=58A6FF&text_color=8B949E&bg_color=0D1117" alt="Notepad Reverse Shell"/>
-  </a>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/arslanjv/arslanjv" target="_blank">
+          <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663067265333/OYQCxqzsyBMVRdWa.svg" width="95%" alt="PhantomBox"/>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/arslanjv/secure-voting-system" target="_blank">
+          <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663067265333/yfCQStPwgGCecSsM.svg" width="95%" alt="Secure Voting System"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/arslanjv/SysInfo-Forensics-Tool" target="_blank">
+          <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663067265333/qJRacBjVFUDTauqO.svg" width="95%" alt="SysInfo Forensics Tool"/>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/arslanjv/ZapNik_Scanner" target="_blank">
+          <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663067265333/RVbmSFmkDNRfpZFC.svg" width="95%" alt="ZapNik Scanner"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/arslanjv/linkedin-job-scraper" target="_blank">
+          <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663067265333/pXBEhBWoUjRdQsnM.svg" width="95%" alt="LinkedIn Job Scraper"/>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/arslanjv/logic-bomb-network-monitor" target="_blank">
+          <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663067265333/fdtgmASkQcLyvHAz.svg" width="95%" alt="Logic Bomb Monitor"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
