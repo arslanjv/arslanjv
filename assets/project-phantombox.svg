@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" role="img" aria-labelledby="t d">
+<title id="t">PhantomBox</title><desc id="d">Final Year Project · the central work of the collection</desc>
+<defs>
+  <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+    <stop offset="0" stop-color="#fbfbfa"/><stop offset="1" stop-color="#f0f1f2"/>
+  </linearGradient>
+  <filter id="s"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="1200" height="500" rx="28" fill="url(#g)"/>
+<path d="M70 92H1130" stroke="#171717" stroke-width="2" opacity=".16"/>
+<text x="70" y="75" font-family="Georgia, serif" font-size="22" fill="#171717" letter-spacing="4">04</text>
+<text x="70" y="175" font-family="Georgia, serif" font-size="66" fill="#171717">PhantomBox</text>
+<text x="74" y="225" font-family="Arial, sans-serif" font-size="23" fill="#4b4f54">Final Year Project · the central work of the collection</text>
+<text x="74" y="274" font-family="Arial, sans-serif" font-size="16" fill="#74777b" letter-spacing="2">SELECTED PROJECT</text>
+<circle cx="1000" cy="255" r="112" fill="#604b70" opacity=".10" filter="url(#s)"/>
+<circle cx="1000" cy="255" r="76" fill="none" stroke="#604b70" stroke-width="2" opacity=".55"/>
+<path d="M930 300c45-120 90 20 140-90" fill="none" stroke="#604b70" stroke-width="4"/><circle cx="930" cy="300" r="7" fill="#604b70"/><circle cx="1070" cy="210" r="7" fill="#604b70"/>
+<path d="M70 424H1130" stroke="#171717" stroke-width="2" opacity=".16"/>
+<text x="70" y="458" font-family="Arial, sans-serif" font-size="15" fill="#686c70">arslanjv / GitHub</text>
+</svg>

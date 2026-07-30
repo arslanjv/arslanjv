@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 720" role="img" aria-labelledby="title desc">
+<title id="title">Muhammad Arsalan Javed</title>
+<desc id="desc">Cybersecurity graduate, investigator, and software builder</desc>
+<defs>
+<linearGradient id="paper" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#fbfbfa"/><stop offset="1" stop-color="#eceeef"/></linearGradient>
+<filter id="blur"><feGaussianBlur stdDeviation="35"/></filter>
+</defs>
+<rect width="1600" height="720" rx="34" fill="url(#paper)"/>
+<circle cx="1320" cy="150" r="210" fill="#3d5666" opacity=".10" filter="url(#blur)"/>
+<circle cx="1310" cy="160" r="128" fill="none" stroke="#3d5666" stroke-width="2" opacity=".45"/>
+<path d="M80 94H1520" stroke="#171717" stroke-width="2" opacity=".18"/>
+<text x="82" y="70" font-family="Arial, sans-serif" font-size="17" letter-spacing="5" fill="#555a5e">PROFILE / 2026</text>
+<text x="82" y="250" font-family="Georgia, serif" font-size="100" fill="#161616">Muhammad</text>
+<text x="82" y="355" font-family="Georgia, serif" font-size="100" fill="#161616">Arsalan Javed</text>
+<text x="88" y="430" font-family="Arial, sans-serif" font-size="28" fill="#4d5358">Cybersecurity graduate · digital investigator · software builder</text>
+<path d="M88 485H740" stroke="#3d5666" stroke-width="4"/>
+<text x="88" y="545" font-family="Arial, sans-serif" font-size="18" letter-spacing="3" fill="#64696d">SECURITY  /  FORENSICS  /  SYSTEMS</text>
+<text x="88" y="632" font-family="Georgia, serif" font-size="25" font-style="italic" fill="#4d5358">A record of work, not a collection of claims.</text>
+<path d="M80 674H1520" stroke="#171717" stroke-width="2" opacity=".18"/>
+<animate attributeName="viewBox" values="0 0 1600 720;0 2 1600 720;0 0 1600 720" dur="10s" repeatCount="indefinite"/>
+</svg>
