@@ -40,36 +40,36 @@
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/arslanjv/arslanjv" target="_blank">
-          <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663067265333/OYQCxqzsyBMVRdWa.svg" width="95%" alt="PhantomBox"/>
+          <img src="./assets/project_0.svg" width="95%" alt="PhantomBox"/>
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/arslanjv/secure-voting-system" target="_blank">
-          <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663067265333/yfCQStPwgGCecSsM.svg" width="95%" alt="Secure Voting System"/>
+          <img src="./assets/project_1.svg" width="95%" alt="Secure Voting System"/>
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/arslanjv/SysInfo-Forensics-Tool" target="_blank">
-          <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663067265333/qJRacBjVFUDTauqO.svg" width="95%" alt="SysInfo Forensics Tool"/>
+          <img src="./assets/project_2.svg" width="95%" alt="SysInfo Forensics Tool"/>
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/arslanjv/ZapNik_Scanner" target="_blank">
-          <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663067265333/RVbmSFmkDNRfpZFC.svg" width="95%" alt="ZapNik Scanner"/>
+          <img src="./assets/project_3.svg" width="95%" alt="ZapNik Scanner"/>
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/arslanjv/linkedin-job-scraper" target="_blank">
-          <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663067265333/pXBEhBWoUjRdQsnM.svg" width="95%" alt="LinkedIn Job Scraper"/>
+          <img src="./assets/project_4.svg" width="95%" alt="LinkedIn Job Scraper"/>
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/arslanjv/logic-bomb-network-monitor" target="_blank">
-          <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663067265333/fdtgmASkQcLyvHAz.svg" width="95%" alt="Logic Bomb Monitor"/>
+          <img src="./assets/project_5.svg" width="95%" alt="Logic Bomb Monitor"/>
         </a>
       </td>
     </tr>
