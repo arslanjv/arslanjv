@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 36">
-<path d="M0 18H520M680 18H1200" stroke="#1a1a1a" stroke-width="2" opacity=".18"/>
-<circle cx="600" cy="18" r="6" fill="#3d5666"><animate attributeName="r" values="4;7;4" dur="3s" repeatCount="indefinite"/></circle>
-</svg>
