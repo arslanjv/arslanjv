@@ -64,9 +64,11 @@ Offline mobile panorama system for guided capture, on-device processing, and int
 
 ## 📊 GitHub Activity
 
+<!-- Using github-stats-extended (github.com/stats-organization/github-stats-extended),
+     an actively maintained, drop-in-compatible fork of github-readme-stats. -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arslanjv&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&icon_color=58A6FF&border_radius=10" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslanjv&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&border_radius=10" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=arslanjv&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&icon_color=58A6FF&border_radius=10" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=arslanjv&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&border_radius=10" height="165"/>
 </p>
 
 <p align="center">
