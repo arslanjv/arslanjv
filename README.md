@@ -1,112 +1,39 @@
-<p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Muhammad Arsalan Javed — Cybersecurity Graduate">
-</p>
+<img src="./assets/hero.svg" width="100%" alt="Muhammad Arsalan Javed">
 
 <p align="center">
-  <a href="#selected-work"><img src="./assets/signature.svg" width="100%" alt="Security, systems, and software built with intent"></a>
+<a href="https://github.com/arslanjv?tab=repositories">REPOSITORIES</a> ·
+<a href="https://github.com/arslanjv?tab=stars">STARRED</a>
 </p>
 
-<br>
+## SELECTED WORK
 
-<!--
-This profile is intentionally quiet.
-No skill bars. No trophy wall. No random logo cemetery.
--->
+A focused record of security engineering, digital investigation, and practical software. No skill bars. No trophy wall. No decorative logo cemetery.
 
-<a id="selected-work"></a>
+<a href="https://github.com/arslanjv"><img src="./assets/phantombox.svg" width="100%" alt="PHANTOMBOX"></a>
 
-<p align="center">
-  <img src="./assets/section-line.svg" width="100%" alt="">
-</p>
+<a href="https://github.com/arslanjv/SysInfo-Forensics-Tool"><img src="./assets/forensics.svg" width="100%" alt="SYSINFO FORENSICS"></a>
 
-<h2 align="center">Selected work</h2>
+<a href="https://github.com/arslanjv/ZapNik_Scanner"><img src="./assets/zapnik.svg" width="100%" alt="ZAPNIK SCANNER"></a>
 
-<p align="center">
-  Projects shaped around investigation, secure systems, and practical software.
-</p>
+<a href="https://github.com/arslanjv"><img src="./assets/experiments.svg" width="100%" alt="SECURITY EXPERIMENTS"></a>
 
-<p align="center">
-  <a href="https://github.com/arslanjv">
-    <img src="./assets/project-forensics.svg" width="100%" alt="Digital Forensics Analyzer">
-  </a>
-</p>
+## DISCIPLINES
 
-<p align="center">
-  <a href="https://github.com/arslanjv">
-    <img src="./assets/project-voting.svg" width="100%" alt="Secure Voting System">
-  </a>
-</p>
+| SECURITY | ENGINEERING | INVESTIGATION |
+|:--|:--|:--|
+| Ethical Hacking | Python · Flask | Digital Forensics |
+| Network Security | JavaScript · HTML · CSS | Windows Registry Analysis |
+| Vulnerability Assessment | C++ · SQL · PostgreSQL | System Artifact Collection |
+| Web Security Testing | Git · GitHub · PowerShell | Malware Behavior Research |
 
-<p align="center">
-  <a href="https://github.com/arslanjv">
-    <img src="./assets/project-zapnik.svg" width="100%" alt="ZapNik Security Scanner">
-  </a>
-</p>
+## ACTIVITY
 
-<p align="center">
-  <a href="https://github.com/arslanjv">
-    <img src="./assets/project-phantombox.svg" width="100%" alt="PhantomBox — Final Year Project">
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="./assets/section-line.svg" width="100%" alt="">
-</p>
-
-<h2 align="center">Practice</h2>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### Security
-
-Ethical Hacking  
-Network Security  
-Digital Forensics  
-Vulnerability Assessment  
-Secure Application Design
-
-</td>
-<td width="50%" valign="top">
-
-### Engineering
-
-Python · Flask  
-JavaScript · HTML · CSS  
-C++ · SQL · PostgreSQL  
-Git · GitHub · PowerShell
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<p align="center">
-  <img src="./assets/section-line.svg" width="100%" alt="">
-</p>
-
-<h2 align="center">A record of the work</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arslanjv&bg_color=ffffff&color=151515&line=6b7280&point=151515&area=true&hide_border=true&radius=8" width="100%" alt="GitHub activity graph">
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arslanjv&bg_color=00000000&color=8b949e&line=58a6ff&point=a371f7&area=true&hide_border=true" width="100%" alt="GitHub activity graph">
 
 <details>
 <summary><b>Contribution trail</b></summary>
 <br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arslanjv/arslanjv/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake">
-</p>
-
+<img src="https://raw.githubusercontent.com/arslanjv/arslanjv/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake">
 </details>
 
-<br>
-
-<p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Built slowly. Improved continuously.">
-</p>
+<p align="center"><sub>Designed as a record of work. Built for GitHub, not a fake portfolio website.</sub></p>
